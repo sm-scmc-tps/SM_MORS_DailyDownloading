@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ck-7kb5tDUKAQwGpvW9Tfg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="212, 162, 794, 39" DesignTimeScaleFactor="1.5" ElementType="InputBox" FullSelectorArgument="&lt;sap id='usr/ctxt[1]' /&gt;" Guid="391f415e-fc5a-422d-85c2-a2755f18026f" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='#32770' title='File select.' idx='*' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="eb8e6a5481ec5b621ff6871ee7b45efa.png" xmlns="">0Zg2-YR0ofEOlUjIpuQW-bg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

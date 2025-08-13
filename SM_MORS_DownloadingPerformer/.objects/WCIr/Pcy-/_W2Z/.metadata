@@ -1,0 +1,13 @@
+﻿{
+  "Name": "FI Upload Program",
+  "Type": "Screen",
+  "Id": "_W2ZpaECXUqxHPSdB8mK9A",
+  "Reference": "k0sTtqG6x02HQk0HmsO9rg/_W2ZpaECXUqxHPSdB8mK9A",
+  "ParentRef": "k0sTtqG6x02HQk0HmsO9rg/Pcy-GNQ1_0W03LengB-Unw",
+  "Created": "2025-08-07T10:02:05.1927823Z",
+  "Updated": "2025-08-07T10:02:05.1927823Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

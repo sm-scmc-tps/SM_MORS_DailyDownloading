@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="yRuhkncAj0KBNa-gQxwS_g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-11, -11, 1942, 1030" FilePath="C:\Program Files (x86)\SAP\FrontEnd\SAPgui\saplogon.exe" IconBase64="iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAIESURBVGhD7ZZLaxNRFIAb7NL+B2lrqaJiJaaEGLhzF65ciBvBpSC00EBFF23uLNtVWx9psUIXUjdN546LQhd20Za6cV90JQjRxD5IZkgz0GTjKTcQMafmQTMzOnI++LZzvnMHZm5XF0EQBEEQBPH/wHXzNtfNuwGR18X3J1IhrpsZrpsQAIuakPGgLmBrQsbq4gO0gM2EjOL2KgFYwGoYr/jHFygwISO4uY7eR3MhrssMFxJ88XRkI1X8TdxbxXbKUzULR8fTy5ufi0sbu+C573fhwcw6aEkDx2LzLCnDuPsXtlOBv+Hi2ke49fgNsMlVHPy7h0zIG7i5Dvxgr7WcCiy8+wDDo/MQf/q22RtQ8UO49xR4gNemzB0YHklB/Mlys/gDlpTXcesfwQO8Up38C2MbIiMvW8XvMSGv4c6G4EFeaJXK8Hx1u52T32fCuIobm4KHua1VqsCz9FY78erkr+C+lthOpVjTKpWPfhScn7l8CdxydqWt+BwT8jJua4s9+7hb+enL9+479+73xMeXsrHEIsTGXrliNPG61dcmx5LGJdx1Js73hc+xiXSGTayAa06mQWv8180yYQzijjPTPzbv513oGxNyADd0hI+XORV/Ec/vGJ8WyHgSr/Bhga+akH14rmt4vICK78UzXYfr5kOum+Nuqwl5Ac8iCIIgCIIgOuMEBQKhoJEXaHoAAAAASUVORK5CYII=" Selector="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='FI Upload Program' /&gt;" Title="FI Upload Program" Version="V1">
+      <imageRef attrName="InformativeScreenshot" originalValue="ff305d860b9c8d9e3498ef683179ce34.png" xmlns="">0R0JuMJ30bUyx7SXQAbLMkQ</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

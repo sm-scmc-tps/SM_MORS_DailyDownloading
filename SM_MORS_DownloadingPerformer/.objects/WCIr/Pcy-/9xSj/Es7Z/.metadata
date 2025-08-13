@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Export",
+  "Type": "Element",
+  "Id": "Es7Zd0Cs4USihIjLCVDoRg",
+  "Reference": "k0sTtqG6x02HQk0HmsO9rg/Es7Zd0Cs4USihIjLCVDoRg",
+  "ParentRef": "k0sTtqG6x02HQk0HmsO9rg/9xSje_ntvkGdqMhqWyW6SA",
+  "Created": "2025-07-18T09:06:25.8918723Z",
+  "Updated": "2025-07-18T09:06:25.8918723Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

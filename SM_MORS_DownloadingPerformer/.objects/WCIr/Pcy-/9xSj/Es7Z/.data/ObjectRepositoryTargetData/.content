@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="LXkJkLGelkyR3XbLAEZxMA" Reference="k0sTtqG6x02HQk0HmsO9rg/Es7Zd0Cs4USihIjLCVDoRg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="c50c83ec-61c6-427b-932b-6ba5ba14b95f" DesignTimeRectangle="-179, -223, 0, 0" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;ctrl name='List' role='menu item' text='List' /&gt;" Guid="e5e533f1-c5e8-41b9-a509-d877314ee0d8" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' idx='*' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="63670d92a3f33ad7dfd64da0711f55ba.png" xmlns="">0yPo-RxALg0GnUdatbGoRAw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
